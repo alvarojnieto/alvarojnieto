@@ -3,7 +3,7 @@
 </div>
 
 <hr>
-<img align='right' src='https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif' width='200"'>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="200">
 
 
 <div align="left">
@@ -22,7 +22,7 @@ Cuando no estoy desarrollando, seguramente estaré jugando videojuegos 🎮, ent
 
 <p align="left">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flate&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flate&logo=mysql&logoColor=white"/>
 </p>
 
 ### Backend <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" height= 40px>  </picture> 
@@ -45,7 +45,7 @@ Cuando no estoy desarrollando, seguramente estaré jugando videojuegos 🎮, ent
   <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=plastic&logo=bootstrap&logoColor=white" />
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://giphy.com/embed/1vlBgKjXEz1jTtsuiH" >
+   <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif">
 
 ### DevOps & DevTools ⚒
 <p align="left">
